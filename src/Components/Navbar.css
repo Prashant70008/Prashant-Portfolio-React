@@ -3,7 +3,7 @@
     padding: 0;
 }
 #logo{
-    width: 220px;
+    width: 190px;
     transition: 0.5s;
 }
 #logo:hover{
@@ -20,12 +20,12 @@
     align-items: center;
     list-style: none;
     gap: 60px;
-    font-size: 24px;
+    font-size: 18px;
 }.nav-connect{
     padding: 10px 20px;
     border-radius: 50px;
     background: linear-gradient(267deg, #DA7C25 0.36%, #B923E1 102.06%);
-    font-size: 24px;
+    font-size: 20px;
     cursor: pointer;
     transition: 0.5s;
 }
